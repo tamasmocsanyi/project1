@@ -1,2 +1,2 @@
 # new
-'code'
+`df.rename(columns={'fasz':'pina'})
