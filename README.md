@@ -1,4 +1,3 @@
 # new
 projects
-`code`
-print('HelloWorld')
+`code`print('HelloWorld')
