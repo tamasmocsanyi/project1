@@ -8,7 +8,7 @@ This project involves making API requests to the [Football API](https://www.api-
    Get your API key from [Football API](https://www.api-sports.io/) to access the data.
 
 2. **Project Details:**
-   - The primary goal is to get information odds data for the Premier League fixtures on December 30 using the "https://v3.football.api-sports.io/odds" endpoint.
+   -The primary goal is to retrieve information of odds data for the Premier League fixtures that were played on December 30 using the 'https://v3.football.api-sports.io/odds' endpoint."
 
    - The script makes an API request to the "odds" endpoint and saves the received JSON response to a file for future reference and data manipulation.
 
