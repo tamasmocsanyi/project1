@@ -14,7 +14,7 @@ This project involves making API requests to the [Football API](https://www.api-
 
    - After obtaining the JSON data, the script parses it, and additional processing is performed, including deleting unnecessary columns to streamline the dataset and renaming columns for clarity.
 
-   -Visualizations are crafted to facilitate both comprehension and analysis of the data.
+   -Visualizations are created to facilitate both comprehension and analysis of the data.
 
 
 ## API Documentation
