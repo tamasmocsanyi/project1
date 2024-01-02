@@ -1,6 +1,6 @@
 # Football API Project - Odds for Premier League Matches
 
-This project involves making an API request to the [Football API](https://www.api-football.com) to gather information about odds offered by various bookmakers, for the Premier League matches that were played on December 30. The main goal is to rank the bookmakers based on their offering of odds for a particular betting market.
+This project involves making an API request to the [Football API](https://www.api-football.com/) to gather information about odds offered by various bookmakers, for the Premier League matches that were played on December 30. The main goal is to rank the bookmakers based on their offering of odds for a particular betting market.
 
 ## Getting Started
 
@@ -18,7 +18,7 @@ This project involves making an API request to the [Football API](https://www.ap
 
 ## API Documentation
 
-Please check out the [Football API Documentation](https://www.api-sports.io/documentation/football/v3) for detailed information about available endpoints, parameters, and responses. 
+Please check out the [Football API Documentation](https://www.api-football.com/documentation-v3) for detailed information about available endpoints, parameters, and responses. 
 
 ## Contributing
 
