@@ -4,7 +4,7 @@ This project involves making an API request to the [Football API](https://www.ap
 
 ## Getting Started
 1. **Tools**    
-   For the project I am using Jupyter Notebooks with popular libraries like Pandas and Numpy for data manipulation and Matplotlib and Seaborn to create visualizations.
+   For the project I am using Python, Jupyter Notebooks, popular libraries like Pandas and Numpy for data manipulation and Matplotlib and Seaborn to create visualizations.
 
 2. **API Key:**
    Get your API key from [Football API](https://www.api-football.com/) to access the data.
