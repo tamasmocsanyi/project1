@@ -27,4 +27,3 @@ This project involves making an API request to the [Football API](https://www.ap
 Please check out the [Football API Documentation](https://www.api-football.com/documentation-v3) for detailed information about available endpoints, parameters, and responses. 
 
 ## Thank you for watching!🚀
-
