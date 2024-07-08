@@ -20,7 +20,7 @@ This project involves making an API request to the [Football API](https://www.ap
    
    - Filtering and grouping data based on betting markets and outcomes to create pivot tables for a better interpretation of odds. The purpose is to facilitate a more insightful analysis and ranking of bookmakers using simple statistical methods.
 
-   - Creating a function that builds on the logic of the previous steps.
+   - Creating a function that builds on the logic of the previous step.
 
 ## API Documentation
 
